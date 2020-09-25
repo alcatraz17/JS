@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    color: rgb(60, 78, 83);
+    font-size: 50px;
+    background-color: #6AE5E5;
+    margin: 0%;
+}
+.para{
+    text-align: center;
+    color: maroon;
+    background-color: floralwhite;
+    font-size: large;
+    margin: 0%;
+}
+h2{
+    margin: 0%;
+    background-color: rgb(211, 204, 236);
+    font-size: 40px;
+}
+.likes{
+    background-color: rgb(203, 252, 243);
+    margin: 0%;
+}
+.food{
+    text-align: center;
+    color: black;
+}
+.drinks{
+    text-align: center;
+    color: black;
+}
+.games{
+    text-align: center;
+    color: black;
+}
+table{
+    size: auto;
+    background-color: rgb(236, 232, 189);
+}
+.ttop{
+    background-color: rgb(240, 191, 119);
+}
+.cen{
+    background-color: rgb(185, 198, 202);
+}
